@@ -6,7 +6,7 @@ nav_order: 1
 
 # 理数教材ライブラリ
 
-小学校1年生から高校3年生までの**算数・数学**と**理科**を体系的に学べる教材集です。
+小学校1年生から高校3年生までの**算数・数学**と**理科**を体系的に学べる教材集です。高校数学III・C修了レベルを前提とした**機械学習**の発展教材も収録しています。
 
 各教材は次の構成で書かれています。
 
@@ -33,6 +33,12 @@ nav_order: 1
 |---|---|---|
 | [小3](science/shou3.html) / [小4](science/shou4.html) | [中1](science/chuu1.html) | [物理](science/butsuri.html) / [化学](science/kagaku.html) |
 | [小5](science/shou5.html) / [小6](science/shou6.html) | [中2](science/chuu2.html) / [中3](science/chuu3.html) | [生物](science/seibutsu.html) / [地学](science/chigaku.html) |
+
+### 機械学習
+
+| 発展教材 |
+|---|
+| [機械学習入門](machine-learning/kikai-gakushu.html) |
 
 ## 使い方
 

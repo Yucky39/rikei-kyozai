@@ -1,6 +1,6 @@
 # 理数教材ライブラリ
 
-小学校1年生から高校3年生までの**算数・数学**と**理科**を体系的に学べる教材集です。
+小学校1年生から高校3年生までの**算数・数学**と**理科**を体系的に学べる教材集です。高校数学III・C修了レベルを前提とした**機械学習**の発展教材も収録しています。
 
 📖 **Webサイト版（数式がきれいに表示されます）**: https://yucky39.github.io/rikei-kyozai/
 
@@ -52,6 +52,12 @@
 | 高校 化学（化学基礎+化学） | [science/kagaku.md](science/kagaku.md) |
 | 高校 生物（生物基礎+生物） | [science/seibutsu.md](science/seibutsu.md) |
 | 高校 地学（地学基礎+地学） | [science/chigaku.md](science/chigaku.md) |
+
+### 機械学習（発展教材）
+
+| 内容 | ファイル |
+|---|---|
+| 機械学習入門（高校数学III・C修了レベル） | [machine-learning/kikai-gakushu.md](machine-learning/kikai-gakushu.md) |
 
 ## 使い方
 
