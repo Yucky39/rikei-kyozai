@@ -1,0 +1,16 @@
+title: 理数教材ライブラリ
+description: 小学校から高校までの算数・数学・理科の学習教材集
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+search_enabled: true
+heading_anchors: true
+
+aux_links:
+  GitHub リポジトリ: https://github.com/Yucky39/rikei-kyozai
+
+footer_content: "© Yucky39 — 学習用教材として自由に利用できます"
+
+kramdown:
+  math_engine: mathjax
